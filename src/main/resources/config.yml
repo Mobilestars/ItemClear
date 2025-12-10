@@ -1,0 +1,9 @@
+# Mode: exact or random
+mode: exact
+
+# Exact mode time in seconds
+exactTimeSeconds: 60
+
+# Random mode time in seconds
+randomMinSeconds: 30
+randomMaxSeconds: 120

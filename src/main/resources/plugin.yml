@@ -1,0 +1,7 @@
+name: ItemClear
+version: '1.0.0'
+main: de.scholle.itemClear.ItemClear
+api-version: '1.18'
+prefix: ItemClear
+authors: [ Mobilestars ]
+description: Description
